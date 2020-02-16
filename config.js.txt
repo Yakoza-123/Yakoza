@@ -1,0 +1,5 @@
+module.exports = {     
+    YT_API_KEY: 'api ', 
+    prefix: '-',
+    devs: ['564742981912100865']
+}
